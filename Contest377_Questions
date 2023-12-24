@@ -23,3 +23,5 @@ class Solution {
        return nums;
     }
 }
+
+// Note : Here giving only 1 solution so that to remind to check all problems solution and approach by going leetcode contest directly. this is just for remember.
